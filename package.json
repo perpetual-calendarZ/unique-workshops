@@ -1,0 +1,17 @@
+{
+  "name": "unique-nft-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@unique-nft/accounts": "^1.0.0-rc.3",
+    "@unique-nft/sdk": "^1.0.0-rc.3"
+  }
+}
