@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@unique-nft/accounts": "^0.3.7",
     "@unique-nft/sdk": "^2.8.1",
-    "@unique-nft/sr25519": "^0.0.2"
+    "@unique-nft/sr25519": "^0.0.2",
+    "@unique-nft/utils": "^0.3.22"
   }
 }
