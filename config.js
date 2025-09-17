@@ -1,5 +1,5 @@
 // config.js
-module.exports = {
+export const config = {
   // Sua frase secreta de 12 palavras
   mnemonic: 'exchange loud raccoon spread deputy night jazz loan company wet island window',
 
